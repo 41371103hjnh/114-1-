@@ -12,4 +12,9 @@
 ## 📋[HW2.成績一本通](https://github.com/41371103hjnh/114-1-/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_gradio.ipynb)
 - 成績紀錄結合AI摘要與建議
 - 透過Gemini API key生成AI 摘要  
-## 🍅[HW3.番茄鐘系統]()
+## 🍅[HW3.番茄鐘系統](https://github.com/41371103hjnh/114-1-/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
+1. 任務列表資料可即時同步到Google sheet    
+2. 完成任務、刪除任務與查詢功能  
+3. 生成任務實際花費時間的統計圖表  
+4. 可以把結果匯出與匯入紀錄（CSV / JSON）  
+5. 結合gemini建議  
