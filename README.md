@@ -2,5 +2,13 @@
 授課教師：蔡芸琤老師  
 姓名：何佳恩 系級：科技系二年級   
 課程筆記區、作業連結區、專題連結區   
-[HW1](https://github.com/41371103hjnh/114-1-/blob/main/HW1%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4_gradio.ipynb)
-[HW2](https://github.com/41371103hjnh/114-1-/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_gradio.ipynb)
+## 🍜[HW1.拉麵點餐系統](https://github.com/41371103hjnh/114-1-/blob/main/HW1%E6%97%A5%E5%B8%B8%E6%94%AF%E5%87%BA%E9%80%9F%E7%AE%97%E8%88%87%E5%88%86%E6%94%A4_gradio.ipynb)  
+拉麵店簡易點餐系統， 訂單成立時會附上今日運勢。  
+1. I/O to GoogleSheet  
+輸入 (Input to GoogleSheet)：將數據資料寫入 Google 試算表  
+輸出 (Output from GoogleSheet)：從 Google 試算表讀取數據並用於分析或顯示  
+2. 使用 if、else、for、def
+3. 使用 Gradio連結程式  
+## 📋[HW2.成績一本通](https://github.com/41371103hjnh/114-1-/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_gradio.ipynb)
+成績紀錄結合AI摘要與建議
+## 🍅[HW3.番茄鐘系統]()
