@@ -10,5 +10,6 @@
 2. 使用 if、else、for、def
 3. 使用 Gradio連結程式  
 ## 📋[HW2.成績一本通](https://github.com/41371103hjnh/114-1-/blob/main/HW2_%E6%88%90%E7%B8%BE%E4%B8%80%E6%9C%AC%E9%80%9A_gradio.ipynb)
-成績紀錄結合AI摘要與建議
+- 成績紀錄結合AI摘要與建議
+- 透過Gemini API key生成AI 摘要  
 ## 🍅[HW3.番茄鐘系統]()
