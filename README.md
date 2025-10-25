@@ -19,4 +19,4 @@
 4. 生成任務實際花費時間的統計圖表  
 5. 可以把結果匯出與匯入紀錄（CSV / JSON）  
 6. 結合gemini建議
-7. [json檔](https://github.com/41371103hjnh/114-1-/blob/main/tasks_export_20251025_151006.json) [csv檔](https://github.com/41371103hjnh/114-1-/blob/main/tasks_export_20251025_151453.csv)
+7. [json檔](https://github.com/41371103hjnh/114-1-/blob/main/tasks_export_20251025_154051.json) [csv檔](https://github.com/41371103hjnh/114-1-/blob/main/tasks_export_20251025_154045.csv)
