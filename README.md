@@ -14,8 +14,9 @@
 - 透過Gemini API key生成AI 摘要  
 ## 🍅[HW3.番茄鐘系統](https://github.com/41371103hjnh/114-1-/blob/main/HW3_%E5%BE%85%E8%BE%A6%E6%B8%85%E5%96%AE%E8%88%87%E7%95%AA%E8%8C%84%E9%90%98%E7%B4%80%E9%8C%84.ipynb)
 1. 任務列表資料可即時同步到Google sheet    
-2. 完成任務、刪除任務與查詢功能  
-3. 生成任務實際花費時間的統計圖表  
-4. 可以把結果匯出與匯入紀錄（CSV / JSON）  
-5. 結合gemini建議
-6. [json檔](https://github.com/41371103hjnh/114-1-/blob/main/tasks_export_20251025_151006.json) [csv檔](https://github.com/41371103hjnh/114-1-/blob/main/tasks_export_20251025_151453.csv)
+2. 完成任務、刪除任務與查詢功能
+3. 番茄鐘計時
+4. 生成任務實際花費時間的統計圖表  
+5. 可以把結果匯出與匯入紀錄（CSV / JSON）  
+6. 結合gemini建議
+7. [json檔](https://github.com/41371103hjnh/114-1-/blob/main/tasks_export_20251025_151006.json) [csv檔](https://github.com/41371103hjnh/114-1-/blob/main/tasks_export_20251025_151453.csv)
