@@ -28,4 +28,27 @@
 - 可下載壓縮包(兩份csv+一份txt)  
 [insight.txt](https://github.com/41371103hjnh/114-1-/blob/main/insight.txt)
 [crawler_export.csv](https://github.com/41371103hjnh/114-1-/blob/main/crawler_export.csv)
-[stats_export.csv](https://github.com/41371103hjnh/114-1-/blob/main/stats_export.csv)
+[stats_export.csv](https://github.com/41371103hjnh/114-1-/blob/main/stats_export.csv)  
+*若第一次跑發生版本error，可以先跑以下程式碼，restart session後應該就能正常啟動了!  
+```python
+# Cell 0｜環境修復：解決 numpy/pandas 二進位不相容錯誤
+!pip -q uninstall -y numpy pandas scikit-learn scipy jax jaxlib opencv-python opencv-python-headless opencv-contrib-python || true
+!pip -q cache purge
+
+# 重新安裝與你 Cell 1 相容的穩定版本
+!pip install --no-cache-dir -U \
+  "numpy==2.2.1" \
+  "pandas==2.2.3" \
+  "scikit-learn==1.5.2" \
+  "scipy==1.14.1"
+
+# 驗證版本
+import numpy, pandas, sklearn, scipy
+print("numpy:", numpy.__version__)
+print("pandas:", pandas.__version__)
+print("scikit-learn:", sklearn.__version__)
+print("scipy:", scipy.__version__)
+
+# 🔄 強制重啟 Python 核心（Colab 會提示「重新連線」）
+import IPython; IPython.get_ipython().kernel.do_shutdown(True)"
+```
