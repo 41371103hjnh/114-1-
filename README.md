@@ -29,7 +29,7 @@
 [insight.txt](https://github.com/41371103hjnh/114-1-/blob/main/insight.txt)
 [crawler_export.csv](https://github.com/41371103hjnh/114-1-/blob/main/crawler_export.csv)
 [stats_export.csv](https://github.com/41371103hjnh/114-1-/blob/main/stats_export.csv)  
-*若第一次跑發生版本error，可以先跑以下程式碼，Runtime-Restart session後應該就能正常啟動了!  
+*若第一次跑發生版本error，請先跑以下程式碼，Runtime-Restart session後應該就能正常啟動了! 謝謝您 
 ```python
 # Cell 0｜環境修復：解決 numpy/pandas 二進位不相容錯誤
 !pip -q uninstall -y numpy pandas scikit-learn scipy jax jaxlib opencv-python opencv-python-headless opencv-contrib-python || true
