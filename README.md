@@ -25,7 +25,7 @@
 - 前30熱詞排行，熱詞盡可能排除人名或非文章內容的雜訊
 - 關鍵字雲圖
 - Gemini 生成各項摘要(含SDGS永續指標分析)
--可下載壓縮包(兩份csv+一份txt)  
+- 可下載壓縮包(兩份csv+一份txt)  
 [insight.txt](https://github.com/41371103hjnh/114-1-/blob/main/insight.txt)
 [crawler_export.csv](https://github.com/41371103hjnh/114-1-/blob/main/crawler_export.csv)
 [stats_export.csv](https://github.com/41371103hjnh/114-1-/blob/main/stats_export.csv)
