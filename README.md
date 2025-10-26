@@ -50,5 +50,5 @@ print("scikit-learn:", sklearn.__version__)
 print("scipy:", scipy.__version__)
 
 # 🔄 強制重啟 Python 核心（Colab 會提示「重新連線」）
-import IPython; IPython.get_ipython().kernel.do_shutdown(True)"
+import IPython; IPython.get_ipython().kernel.do_shutdown(True)
 ```
