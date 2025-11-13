@@ -53,7 +53,7 @@ print("scipy:", scipy.__version__)
 # 🔄 強制重啟 Python 核心（Colab 會提示「重新連線」）
 import IPython; IPython.get_ipython().kernel.do_shutdown(True)
 ```
-##🎄[HW5.新北耶誕城 美食&遊玩地圖指南](https://github.com/41371103hjnh/114-1-/blob/main/HW5_%E6%96%B0%E5%8C%97%E8%80%B6%E8%AA%95%E5%9F%8E_%E7%BE%8E%E9%A3%9F%26%E9%81%8A%E7%8E%A9%E5%9C%B0%E5%9C%96%E6%8C%87%E5%8D%97.ipynb)
+## 🎄[HW5.新北耶誕城 美食&遊玩地圖指南](https://github.com/41371103hjnh/114-1-/blob/main/HW5_%E6%96%B0%E5%8C%97%E8%80%B6%E8%AA%95%E5%9F%8E_%E7%BE%8E%E9%A3%9F%26%E9%81%8A%E7%8E%A9%E5%9C%B0%E5%9C%96%E6%8C%87%E5%8D%97.ipynb)
 - 自動智慧搜尋：輸入關鍵字即可於耶誕城周邊搜尋美食或景點，並能自動判斷是「美食模式」或「遊玩模式」  
 - SERP API取得資料、地圖整合顯示  
 - 店家資訊小卡：每個地點附有照片縮圖、店名、電話、評分、地址等資訊  
