@@ -53,3 +53,9 @@ print("scipy:", scipy.__version__)
 # 🔄 強制重啟 Python 核心（Colab 會提示「重新連線」）
 import IPython; IPython.get_ipython().kernel.do_shutdown(True)
 ```
+##🎄[HW5.新北耶誕城 美食&遊玩地圖指南]()
+- 自動智慧搜尋：輸入關鍵字即可於耶誕城周邊搜尋美食或景點，並能自動判斷是「美食模式」或「遊玩模式」  
+- SERP API取得資料、地圖整合顯示  
+- 店家資訊小卡：每個地點附有照片縮圖、店名、電話、評分、地址等資訊  
+- AI 逐店分析、TOP 3推薦  
+- 聖誕氛圍介面：燈泡、雪花、金色字體設計，呈現節慶感
