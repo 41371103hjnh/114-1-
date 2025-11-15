@@ -58,4 +58,13 @@ import IPython; IPython.get_ipython().kernel.do_shutdown(True)
 2. SERP API取得資料、Folium地圖整合顯示  
 3. 店家資訊小卡：每個地點附有照片縮圖、店名、電話、評分、地址等資訊  
 4. AI 逐店分析、TOP 3推薦  
-5. 聖誕氛圍介面：燈泡、雪花、金色字體設計，呈現節慶感 
+5. 聖誕氛圍介面：燈泡、雪花、金色字體設計，呈現節慶感
+
+## 📚[HW6.課程小助理](https://github.com/41371103hjnh/114-1-/blob/main/HW6_%E8%AA%B2%E7%A8%8B%E5%B0%8F%E5%8A%A9%E7%90%86.ipynb)
+1. PDF 課表 → 一鍵轉換成試算表（Gemini 解析）
+2. AI生成當日提醒、學習建議
+3. 生成每日課程小卡(上課時間、地點、行前提醒、學習建議、即時天氣)
+   - 天氣訊息來自Openweather API，地區設定為台北
+4. 每日學術文章推薦：Phys.org 自動抽取
+5. 雲端留言板（儲存在 Google Sheet留言板分頁）
+[參考課表](https://github.com/41371103hjnh/114-1-/blob/main/export.pdf)
