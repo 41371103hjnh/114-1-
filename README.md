@@ -66,5 +66,5 @@ import IPython; IPython.get_ipython().kernel.do_shutdown(True)
 3. 生成每日課程小卡(上課時間、地點、行前提醒、學習建議、即時天氣)
    - 天氣訊息來自Openweather API，地區設定為台北
 4. 每日學術文章推薦：Phys.org 自動抽取
-5. 雲端留言板（儲存在 Google Sheet留言板分頁）
+5. 雲端留言板（儲存在 Google Sheet留言板分頁）  
 [參考課表](https://github.com/41371103hjnh/114-1-/blob/main/export.pdf)
