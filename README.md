@@ -68,4 +68,4 @@ import IPython; IPython.get_ipython().kernel.do_shutdown(True)
 4. 每日學術文章推薦：Phys.org 自動抽取
 5. 雲端留言板（儲存在 Google Sheet留言板分頁）  
 [參考課表](https://github.com/41371103hjnh/114-1-/blob/main/export.pdf)
-##[專題提案報告](https://www.youtube.com/watch?v=wcNFh9eP8yw)
+## 💘[專題提案報告](https://www.youtube.com/watch?v=wcNFh9eP8yw)
